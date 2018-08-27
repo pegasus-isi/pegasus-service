@@ -60,7 +60,7 @@ setup(
     },
     install_requires = [
         "werkzeug==0.9.3",
-        "Flask==0.10",
+        "Flask==0.12.3",
         "Jinja2==2.7",
         "Flask-SQLAlchemy==0.16",
         "Flask-Cache==0.13.1",
